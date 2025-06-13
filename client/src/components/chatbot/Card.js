@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Card = (props) => {
     return (
         <div  style={{ height: 270, paddingRight:30, float: 'left'}}>
